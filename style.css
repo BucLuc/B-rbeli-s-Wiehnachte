@@ -88,7 +88,7 @@ h1 {
 .container .card .copyright {
     text-align: left;
     padding-top: 20px;
-    border-top: rgba(0, 0, 0, 0.459) 3px solid;
+    border-top: rgba(0, 0, 0, 0.459) 2px solid;
     position: relative;
 }
 
